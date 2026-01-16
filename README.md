@@ -4,7 +4,7 @@
 
 ### Data
 
-**1. 20250330.native_plant.matched.cultivated_plant_DO.csv**
+**1. 20250330.native_plant.matched.cultivated_plant_DO11.csv**
 
 **Description**: This dataset constitutes the core data for analyzing the global naturalization patterns of native Chinese plants. It integrates species naturalization information, cultivation information, life forms, native range size, and cultivation both within and outside China.
 
